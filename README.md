@@ -8,4 +8,4 @@ Come back and we may have more apps. I'm also looking for a way to list
 apps inside of Jekyll. If anybody knows about that, please drop me a line.
 
 
-Having trouble with Laz repos? [Contact support](https://github.com/lazarusmob/index/issues) and we’ll help you sort it out.
+Having trouble with Lazarus repos? [Contact support](https://github.com/lazarusmob/index/issues) and we’ll help you sort it out.
